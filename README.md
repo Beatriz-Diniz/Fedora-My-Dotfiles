@@ -1,5 +1,5 @@
 # Fedora-My-Dotfiles
-This repository contains my personal configuration files (Dotfiles) for Fedora with Hyprland.
+This repository contains my personal configuration files (Dotfiles) for Fedora 44+ with Hyprland.
 
 ![image](https://github.com/user-attachments/assets/4d2df667-b6a4-42b5-9b41-8046f1083a52)
 
