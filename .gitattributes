@@ -1,0 +1,3 @@
+home/.config/hyde/themes/Rosé[[:space:]]Pine/wallpapers/*.gif filter=lfs diff=lfs merge=lfs -text
+home/.config/hyde/themes/Rosé[[:space:]]Pine/wallpapers/*.mp4 filter=lfs diff=lfs merge=lfs -text
+home/.config/hyde/themes/Rosé[[:space:]]Pine/wallpapers/*.webm filter=lfs diff=lfs merge=lfs -text

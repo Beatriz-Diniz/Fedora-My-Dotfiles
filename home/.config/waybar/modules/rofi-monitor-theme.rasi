@@ -1,0 +1,29 @@
+/* rofi-monitor-theme.rasi */
+
+* {
+    font: "JetBrainsMono Nerd Font 14";
+    background: #00000099;    /* preto com 60% de opacidade */
+    foreground: #ffffff;       /* texto branco */
+    border: 0;
+    padding: 6px;
+}
+
+window {
+    width: 30%;               /* ajusta largura */
+    location: center;
+    children: [ "mainbox" ];
+}
+
+mainbox {
+    border: 0;
+    children: [ "listview" ];
+}
+
+listview {
+    lines: 3;                 /* número de itens visíveis */
+    fixed-height: true;
+    dynamic: false;
+    spacing: 4px;
+    cycle: false;
+}
+
