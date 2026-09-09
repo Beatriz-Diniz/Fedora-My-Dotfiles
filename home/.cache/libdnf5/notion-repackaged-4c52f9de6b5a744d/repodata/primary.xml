@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns="http://linux.duke.edu/metadata/common" xmlns:rpm="http://linux.duke.edu/metadata/rpm" packages="8">
+  <package type="rpm">
+    <name>notion-app</name>
+    <arch>x86_64</arch>
+    <location href="files/ver_zGeSp/notion-app-2.0.16-3.x86_64.rpm"/>
+    <summary>The all-in-one workspace for your notes and tasks</summary>
+    <description>The all-in-one workspace for your notes and tasks</description>
+    <version ver="2.0.16" rel="3" epoch="0"/>
+    <size package="66490256" installed="309009421" archive="0"/>
+    <checksum type="sha" pkgid="YES">787c3fa1a1732359e26ede337a827609a1d61db2</checksum>
+    <format>
+      <rpm:requires>
+        <rpm:entry name="/bin/sh"/>
+        <rpm:entry name="/bin/sh"/>
+        <rpm:entry name="at-spi2-core"/>
+        <rpm:entry name="gtk3"/>
+        <rpm:entry name="libXScrnSaver"/>
+        <rpm:entry name="libXtst"/>
+        <rpm:entry name="libnotify"/>
+        <rpm:entry name="libuuid"/>
+        <rpm:entry name="nss"/>
+        <rpm:entry name="xdg-utils"/>
+      </rpm:requires>
+      <rpm:provides>
+        <rpm:entry name="notion-app" flags="EQ" ver="2.0.16" rel="3" epoch="0"/>
+        <rpm:entry name="notion-app(x86-64)" flags="EQ" ver="2.0.16" rel="3" epoch="0"/>
+      </rpm:provides>
+    </format>
+  </package>
+  <package type="rpm">
+    <name>notion-app</name>
+    <arch>x86_64</arch>
+    <location href="files/ver_11kZNJ/notion-app-2.0.16-4.x86_64.rpm"/>
+    <summary>The all-in-one workspace for your notes and tasks</summary>
+    <description>The all-in-one workspace for your notes and tasks</description>
+    <version ver="2.0.16" rel="4" epoch="0"/>
+    <size package="66487220" installed="309009421" archive="0"/>
+    <checksum type="sha" pkgid="YES">45e29464b1d85bd255b4b09aee714e764d3bb094</checksum>
+    <format>
+      <rpm:requires>
+        <rpm:entry name="/bin/sh"/>
+        <rpm:entry name="/bin/sh"/>
+        <rpm:entry name="at-spi2-core"/>
+        <rpm:entry name="gtk3"/>
+        <rpm:entry name="libXScrnSaver"/>
+        <rpm:entry name="libXtst"/>
+        <rpm:entry name="libnotify"/>
+        <rpm:entry name="libuuid"/>
+        <rpm:entry name="nss"/>
+        <rpm:entry name="xdg-utils"/>
+      </rpm:requires>
+      <rpm:conflicts>
+        <rpm:entry name="notion-app-enhanced"/>
+      </rpm:conflicts>
+      <rpm:provides>
+        <rpm:entry name="notion-app" flags="EQ" ver="2.0.16" rel="4" epoch="0"/>
+        <rpm:entry name="notion-app(x86-64)" flags="EQ" ver="2.0.16" rel="4" epoch="0"/>
+      </rpm:provides>
+    </format>
+  </package>
+  <package type="rpm">
+    <name>notion-app</name>
+    <arch>x86_64</arch>
+    <location href="files/ver_1h5Dke/notion-app-2.0.16-5.x86_64.rpm"/>
+    <summary>The all-in-one workspace for your notes and tasks</summary>
+    <description>The all-in-one workspace for your notes and tasks</description>
+    <version ver="2.0.16" rel="5" epoch="0"/>
+    <size package="66473224" installed="309011760" archive="0"/>
+    <checksum type="sha" pkgid="YES">3faceac6773d58a8e6c98fb618b86483d12519f8</checksum>
+    <format>
+      <rpm:requires>
+        <rpm:entry name="/bin/sh"/>
+        <rpm:entry name="/bin/sh"/>
+        <rpm:entry name="at-spi2-core"/>
+        <rpm:entry name="gtk3"/>
+        <rpm:entry name="libXScrnSaver"/>
+        <rpm:entry name="libXtst"/>
+        <rpm:entry name="libnotify"/>
+        <rpm:entry name="libuuid"/>
+        <rpm:entry name="nss"/>
+        <rpm:entry name="xdg-utils"/>
+      </rpm:requires>
+      <rpm:conflicts>
+        <rpm:entry name="notion-app-enhanced"/>
+      </rpm:conflicts>
+      <rpm:provides>
+        <rpm:entry name="notion-app" flags="EQ" ver="2.0.16" rel="5" epoch="0"/>
+        <rpm:entry name="notion-app(x86-64)" flags="EQ" ver="2.0.16" rel="5" epoch="0"/>
+      </rpm:provides>
+    </format>
+  </package>
+  <package type="rpm">
+    <name>notion-app</name>
+    <arch>x86_64</arch>
+    <location href="files/ver_1EYIGa/notion-app-2.0.18-1.x86_64.rpm"/>
+    <summary>The all-in-one workspace for your notes and tasks</summary>
+    <description>The all-in-one workspace for your notes and tasks</description>
+    <version ver="2.0.18" rel="1" epoch="0"/>
+    <size package="66516728" installed="312633837" archive="0"/>
+    <checksum type="sha" pkgid="YES">9e90692f413aecea893571172de90f472a05e048</checksum>
+    <format>
+      <rpm:requires>
+        <rpm:entry name="/bin/sh"/>
+        <rpm:entry name="/bin/sh"/>
+        <rpm:entry name="at-spi2-core"/>
+        <rpm:entry name="gtk3"/>
+        <rpm:entry name="libXScrnSaver"/>
+        <rpm:entry name="libXtst"/>
+        <rpm:entry name="libnotify"/>
+        <rpm:entry name="libuuid"/>
+        <rpm:entry name="nss"/>
+        <rpm:entry name="xdg-utils"/>
+      </rpm:requires>
+      <rpm:conflicts>
+        <rpm:entry name="notion-app-enhanced"/>
+      </rpm:conflicts>
+      <rpm:provides>
+        <rpm:entry name="notion-app" flags="EQ" ver="2.0.18" rel="1" epoch="0"/>
+        <rpm:entry name="notion-app(x86-64)" flags="EQ" ver="2.0.18" rel="1" epoch="0"/>
+      </rpm:provides>
+    </format>
+  </package>
+  <package type="rpm">
+    <name>notion-app-enhanced</name>
+    <arch>x86_64</arch>
+    <location href="files/ver_14Ilna/notion-app-enhanced-2.0.16-3.x86_64.rpm"/>
+    <summary>The all-in-one workspace for your notes and tasks, but enhanced</summary>
+    <description>The all-in-one workspace for your notes and tasks, but enhanced</description>
+    <version ver="2.0.16" rel="3" epoch="0"/>
+    <size package="67591736" installed="310201139" archive="0"/>
+    <checksum type="sha" pkgid="YES">dec7b1bc68be0f70e48984a254ed2f2d981bded0</checksum>
+    <format>
+      <rpm:requires>
+        <rpm:entry name="/bin/sh"/>
+        <rpm:entry name="/bin/sh"/>
+        <rpm:entry name="at-spi2-core"/>
+        <rpm:entry name="gtk3"/>
+        <rpm:entry name="libXScrnSaver"/>
+        <rpm:entry name="libXtst"/>
+        <rpm:entry name="libnotify"/>
+        <rpm:entry name="libuuid"/>
+        <rpm:entry name="nss"/>
+        <rpm:entry name="xdg-utils"/>
+      </rpm:requires>
+      <rpm:provides>
+        <rpm:entry name="notion-app-enhanced" flags="EQ" ver="2.0.16" rel="3" epoch="0"/>
+        <rpm:entry name="notion-app-enhanced(x86-64)" flags="EQ" ver="2.0.16" rel="3" epoch="0"/>
+      </rpm:provides>
+    </format>
+  </package>
+  <package type="rpm">
+    <name>notion-app-enhanced</name>
+    <arch>x86_64</arch>
+    <location href="files/ver_rEI44/notion-app-enhanced-2.0.16-4.x86_64.rpm"/>
+    <summary>The all-in-one workspace for your notes and tasks, but enhanced</summary>
+    <description>The all-in-one workspace for your notes and tasks, but enhanced</description>
+    <version ver="2.0.16" rel="4" epoch="0"/>
+    <size package="67578092" installed="310201139" archive="0"/>
+    <checksum type="sha" pkgid="YES">5b47baec08b3ba939dccbf192b6313716dbb6117</checksum>
+    <format>
+      <rpm:requires>
+        <rpm:entry name="/bin/sh"/>
+        <rpm:entry name="/bin/sh"/>
+        <rpm:entry name="at-spi2-core"/>
+        <rpm:entry name="gtk3"/>
+        <rpm:entry name="libXScrnSaver"/>
+        <rpm:entry name="libXtst"/>
+        <rpm:entry name="libnotify"/>
+        <rpm:entry name="libuuid"/>
+        <rpm:entry name="nss"/>
+        <rpm:entry name="xdg-utils"/>
+      </rpm:requires>
+      <rpm:conflicts>
+        <rpm:entry name="notion-app"/>
+      </rpm:conflicts>
+      <rpm:provides>
+        <rpm:entry name="notion-app-enhanced" flags="EQ" ver="2.0.16" rel="4" epoch="0"/>
+        <rpm:entry name="notion-app-enhanced(x86-64)" flags="EQ" ver="2.0.16" rel="4" epoch="0"/>
+      </rpm:provides>
+    </format>
+  </package>
+  <package type="rpm">
+    <name>notion-app-enhanced</name>
+    <arch>x86_64</arch>
+    <location href="files/ver_1Oweep/notion-app-enhanced-2.0.16-5.x86_64.rpm"/>
+    <summary>The all-in-one workspace for your notes and tasks, but enhanced</summary>
+    <description>The all-in-one workspace for your notes and tasks, but enhanced</description>
+    <version ver="2.0.16" rel="5" epoch="0"/>
+    <size package="67588492" installed="310204147" archive="0"/>
+    <checksum type="sha" pkgid="YES">6e8d9506c3769d8449351b851c30a230e5f4e32d</checksum>
+    <format>
+      <rpm:requires>
+        <rpm:entry name="/bin/sh"/>
+        <rpm:entry name="/bin/sh"/>
+        <rpm:entry name="at-spi2-core"/>
+        <rpm:entry name="gtk3"/>
+        <rpm:entry name="libXScrnSaver"/>
+        <rpm:entry name="libXtst"/>
+        <rpm:entry name="libnotify"/>
+        <rpm:entry name="libuuid"/>
+        <rpm:entry name="nss"/>
+        <rpm:entry name="xdg-utils"/>
+      </rpm:requires>
+      <rpm:conflicts>
+        <rpm:entry name="notion-app"/>
+      </rpm:conflicts>
+      <rpm:provides>
+        <rpm:entry name="notion-app-enhanced" flags="EQ" ver="2.0.16" rel="5" epoch="0"/>
+        <rpm:entry name="notion-app-enhanced(x86-64)" flags="EQ" ver="2.0.16" rel="5" epoch="0"/>
+      </rpm:provides>
+    </format>
+  </package>
+  <package type="rpm">
+    <name>notion-app-enhanced</name>
+    <arch>x86_64</arch>
+    <location href="files/ver_2cpjjP/notion-app-enhanced-2.0.18-1.x86_64.rpm"/>
+    <summary>The all-in-one workspace for your notes and tasks, but enhanced</summary>
+    <description>The all-in-one workspace for your notes and tasks, but enhanced</description>
+    <version ver="2.0.18" rel="1" epoch="0"/>
+    <size package="70170568" installed="318415509" archive="0"/>
+    <checksum type="sha" pkgid="YES">95b2bc477131487ec3e4a77055a0e6a2fa817c70</checksum>
+    <format>
+      <rpm:requires>
+        <rpm:entry name="/bin/sh"/>
+        <rpm:entry name="/bin/sh"/>
+        <rpm:entry name="at-spi2-core"/>
+        <rpm:entry name="gtk3"/>
+        <rpm:entry name="libXScrnSaver"/>
+        <rpm:entry name="libXtst"/>
+        <rpm:entry name="libnotify"/>
+        <rpm:entry name="libuuid"/>
+        <rpm:entry name="nss"/>
+        <rpm:entry name="xdg-utils"/>
+      </rpm:requires>
+      <rpm:conflicts>
+        <rpm:entry name="notion-app"/>
+      </rpm:conflicts>
+      <rpm:provides>
+        <rpm:entry name="notion-app-enhanced" flags="EQ" ver="2.0.18" rel="1" epoch="0"/>
+        <rpm:entry name="notion-app-enhanced(x86-64)" flags="EQ" ver="2.0.18" rel="1" epoch="0"/>
+      </rpm:provides>
+    </format>
+  </package>
+</metadata>

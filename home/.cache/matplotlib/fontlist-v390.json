@@ -1,0 +1,6734 @@
+{
+  "_version": 390,
+  "_FontManager__default_weight": "normal",
+  "default_size": null,
+  "defaultFamily": {
+    "ttf": "DejaVu Sans",
+    "afm": "Helvetica"
+  },
+  "afmlist": [
+    {
+      "fname": "fonts/afm/phvb8a.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/psyr.afm",
+      "name": "Symbol",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pncri8a.afm",
+      "name": "New Century Schoolbook",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Courier.afm",
+      "name": "Courier",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/putr8a.afm",
+      "name": "Utopia",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "regular",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pbkli8a.afm",
+      "name": "ITC Bookman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "light",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pbkd8a.afm",
+      "name": "ITC Bookman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "demi",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/phvl8a.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "light",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/phvro8an.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pplri8a.afm",
+      "name": "Palatino",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/ptmb8a.afm",
+      "name": "Times",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/ptmri8a.afm",
+      "name": "Times",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Helvetica-Bold.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Helvetica-Oblique.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pcrro8a.afm",
+      "name": "Courier",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pplr8a.afm",
+      "name": "Palatino",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "roman",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/phvr8an.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Times-Roman.afm",
+      "name": "Times",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "roman",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pcrr8a.afm",
+      "name": "Courier",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/phvr8a.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/phvbo8a.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pagd8a.afm",
+      "name": "ITC Avant Garde Gothic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "demi",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pagko8a.afm",
+      "name": "ITC Avant Garde Gothic",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "book",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/ptmr8a.afm",
+      "name": "Times",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "roman",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/cmmi10.afm",
+      "name": "Computer Modern",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/putb8a.afm",
+      "name": "Utopia",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Symbol.afm",
+      "name": "Symbol",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/phvlo8a.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "light",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pplbi8a.afm",
+      "name": "Palatino",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/ptmbi8a.afm",
+      "name": "Times",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pzcmi8a.afm",
+      "name": "ITC Zapf Chancery",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pagdo8a.afm",
+      "name": "ITC Avant Garde Gothic",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "demi",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/ZapfDingbats.afm",
+      "name": "ZapfDingbats",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/cmex10.afm",
+      "name": "Computer Modern",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Courier-Oblique.afm",
+      "name": "Courier",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/phvro8a.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pzdr.afm",
+      "name": "ITC Zapf Dingbats",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Times-Bold.afm",
+      "name": "Times",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Times-BoldItalic.afm",
+      "name": "Times",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Times-Italic.afm",
+      "name": "Times",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/putbi8a.afm",
+      "name": "Utopia",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pbkl8a.afm",
+      "name": "ITC Bookman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "light",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/cmtt10.afm",
+      "name": "Computer Modern",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/cmsy10.afm",
+      "name": "Computer Modern",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/phvbo8an.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/cmr10.afm",
+      "name": "Computer Modern",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pbkdi8a.afm",
+      "name": "ITC Bookman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "demi",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pplb8a.afm",
+      "name": "Palatino",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Courier-BoldOblique.afm",
+      "name": "Courier",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pncb8a.afm",
+      "name": "New Century Schoolbook",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pncbi8a.afm",
+      "name": "New Century Schoolbook",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pncr8a.afm",
+      "name": "New Century Schoolbook",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "roman",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/putri8a.afm",
+      "name": "Utopia",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "regular",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pcrb8a.afm",
+      "name": "Courier",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Helvetica-BoldOblique.afm",
+      "name": "Helvetica",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pcrbo8a.afm",
+      "name": "Courier",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/phvb8an.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Helvetica.afm",
+      "name": "Helvetica",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/pdfcorefonts/Courier-Bold.afm",
+      "name": "Courier",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/afm/pagk8a.afm",
+      "name": "ITC Avant Garde Gothic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "book",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/URWGothic-Book.afm",
+      "name": "URW Gothic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "book",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/URWGothic-Demi.afm",
+      "name": "URW Gothic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "demi",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/P052-Italic.afm",
+      "name": "P052",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "regular",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusRoman-Bold.afm",
+      "name": "Nimbus Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusSansNarrow-Regular.afm",
+      "name": "Nimbus Sans Narrow",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "regular",
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusSansNarrow-BoldOblique.afm",
+      "name": "Nimbus Sans Narrow",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusSans-BoldItalic.afm",
+      "name": "Nimbus Sans",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/URWBookman-LightItalic.afm",
+      "name": "URW Bookman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "light",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusSans-Regular.afm",
+      "name": "Nimbus Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "regular",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/StandardSymbolsPS.afm",
+      "name": "Standard Symbols PS",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "regular",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/P052-Roman.afm",
+      "name": "P052",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "roman",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusRoman-Italic.afm",
+      "name": "Nimbus Roman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "regular",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusSans-Italic.afm",
+      "name": "Nimbus Sans",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "regular",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/URWBookman-Demi.afm",
+      "name": "URW Bookman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "demi",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusSansNarrow-Oblique.afm",
+      "name": "Nimbus Sans Narrow",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "regular",
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/URWGothic-BookOblique.afm",
+      "name": "URW Gothic",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "book",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/P052-BoldItalic.afm",
+      "name": "P052",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusMonoPS-Bold.afm",
+      "name": "Nimbus Mono PS",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/Z003-MediumItalic.afm",
+      "name": "Z003",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "medium",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/URWBookman-Light.afm",
+      "name": "URW Bookman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "light",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusSansNarrow-Bold.afm",
+      "name": "Nimbus Sans Narrow",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/C059-Italic.afm",
+      "name": "C059",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "roman",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusMonoPS-BoldItalic.afm",
+      "name": "Nimbus Mono PS",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusRoman-Regular.afm",
+      "name": "Nimbus Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "regular",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusMonoPS-Regular.afm",
+      "name": "Nimbus Mono PS",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "regular",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/URWBookman-DemiItalic.afm",
+      "name": "URW Bookman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "demi",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/URWGothic-DemiOblique.afm",
+      "name": "URW Gothic",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "demi",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/C059-Roman.afm",
+      "name": "C059",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "roman",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusRoman-BoldItalic.afm",
+      "name": "Nimbus Roman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/P052-Bold.afm",
+      "name": "P052",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/C059-BdIta.afm",
+      "name": "C059",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/C059-Bold.afm",
+      "name": "C059",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusMonoPS-Italic.afm",
+      "name": "Nimbus Mono PS",
+      "style": "italic",
+      "variant": "normal",
+      "weight": "regular",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusSans-Bold.afm",
+      "name": "Nimbus Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "bold",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/D050000L.afm",
+      "name": "D050000L",
+      "style": "normal",
+      "variant": "normal",
+      "weight": "regular",
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    }
+  ],
+  "ttflist": [
+    {
+      "fname": "fonts/ttf/STIXSizFourSymBol.ttf",
+      "name": "STIXSizeFourSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/cmmi10.ttf",
+      "name": "cmmi10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/cmtt10.ttf",
+      "name": "cmtt10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSans.ttf",
+      "name": "DejaVu Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXSizThreeSymReg.ttf",
+      "name": "STIXSizeThreeSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSerifDisplay.ttf",
+      "name": "DejaVu Serif Display",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXNonUni.ttf",
+      "name": "STIXNonUnicode",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/cmb10.ttf",
+      "name": "cmb10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/cmr10.ttf",
+      "name": "cmr10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXSizFourSymReg.ttf",
+      "name": "STIXSizeFourSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/cmsy10.ttf",
+      "name": "cmsy10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSansMono-Oblique.ttf",
+      "name": "DejaVu Sans Mono",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXSizOneSymReg.ttf",
+      "name": "STIXSizeOneSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXNonUniBol.ttf",
+      "name": "STIXNonUnicode",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXSizFiveSymReg.ttf",
+      "name": "STIXSizeFiveSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSerif.ttf",
+      "name": "DejaVu Serif",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSans-Oblique.ttf",
+      "name": "DejaVu Sans",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXNonUniIta.ttf",
+      "name": "STIXNonUnicode",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXSizOneSymBol.ttf",
+      "name": "STIXSizeOneSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXGeneral.ttf",
+      "name": "STIXGeneral",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXGeneralBol.ttf",
+      "name": "STIXGeneral",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSansDisplay.ttf",
+      "name": "DejaVu Sans Display",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSerif-Italic.ttf",
+      "name": "DejaVu Serif",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSerif-BoldItalic.ttf",
+      "name": "DejaVu Serif",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXSizThreeSymBol.ttf",
+      "name": "STIXSizeThreeSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXSizTwoSymReg.ttf",
+      "name": "STIXSizeTwoSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXGeneralBolIta.ttf",
+      "name": "STIXGeneral",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXNonUniBolIta.ttf",
+      "name": "STIXNonUnicode",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSans-BoldOblique.ttf",
+      "name": "DejaVu Sans",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSansMono-BoldOblique.ttf",
+      "name": "DejaVu Sans Mono",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/cmss10.ttf",
+      "name": "cmss10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSansMono-Bold.ttf",
+      "name": "DejaVu Sans Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSerif-Bold.ttf",
+      "name": "DejaVu Serif",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXGeneralItalic.ttf",
+      "name": "STIXGeneral",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSans-Bold.ttf",
+      "name": "DejaVu Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/STIXSizTwoSymBol.ttf",
+      "name": "STIXSizeTwoSym",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/cmex10.ttf",
+      "name": "cmex10",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "fonts/ttf/DejaVuSansMono.ttf",
+      "name": "DejaVu Sans Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatDisplay-BoldItalic.otf",
+      "name": "Red Hat Display",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 799,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSerifOriya[wght].ttf",
+      "name": "Noto Serif Oriya",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/C059-BdIta.otf",
+      "name": "C059",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontPropo-Thin.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/julietaula-montserrat-fonts/Montserrat-LightItalic.otf",
+      "name": "Montserrat",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontMono-Bold.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontMono-Bold.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/julietaula-montserrat-fonts/Montserrat-BoldItalic.otf",
+      "name": "Montserrat",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmmonolt10-regular.otf",
+      "name": "Latin Modern Mono Light",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontMono-Light.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFont-Regular.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/stix-fonts/STIXTwoText-MediumItalic.otf",
+      "name": "STIX Two Text",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmsans12-oblique.otf",
+      "name": "Latin Modern Sans",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmsansquot8-regular.otf",
+      "name": "Latin Modern Sans Quotation",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/adobe-source-code-pro-fonts/SourceCodePro-Regular.otf",
+      "name": "Source Code Pro",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/liberation-serif-fonts/LiberationSerif-Regular.ttf",
+      "name": "Liberation Serif",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusRoman-BoldItalic.otf",
+      "name": "Nimbus Roman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/StandardSymbolsPS.otf",
+      "name": "Standard Symbols PS",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/sil-mingzat-fonts/Mingzat-Regular.ttf",
+      "name": "Mingzat",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/adwaita-mono-fonts/AdwaitaMono-Bold.ttf",
+      "name": "Adwaita Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontMono-ThinItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatDisplay-LightItalic.otf",
+      "name": "Red Hat Display",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontMono-BoldItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansArabic[wght].ttf",
+      "name": "Noto Sans Arabic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSerifKannada[wght].ttf",
+      "name": "Noto Serif Kannada",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/dejavu-sans-fonts/DejaVuSans-Bold.ttf",
+      "name": "DejaVu Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontMono-Italic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-droid-sans-fonts/DroidSansTamil-Regular.ttf",
+      "name": "Droid Sans Tamil",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/julietaula-montserrat-fonts/Montserrat-Italic.otf",
+      "name": "Montserrat",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/julietaula-montserrat-fonts/Montserrat-Light.otf",
+      "name": "Montserrat",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontPropo-LightItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto/NotoSansGothic-Regular.ttf",
+      "name": "Noto Sans Gothic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontPropo-Bold.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatDisplay-SemiBoldItalic.otf",
+      "name": "Red Hat Display",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 707,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/stix-fonts/STIXTwoText-Regular.otf",
+      "name": "STIX Two Text",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontMono-Thin.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-droid-sans-fonts/DroidSansArmenian.ttf",
+      "name": "Droid Sans Armenian",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmroman10-regular.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/julietaula-montserrat-fonts/Montserrat-Medium.otf",
+      "name": "Montserrat",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFont-Italic.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFont-Italic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontMono-Italic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontMono-Light.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/aajohan-comfortaa-fonts/Comfortaa-SemiBold.otf",
+      "name": "Comfortaa",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFont-Light.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-droid-sans-fonts/DroidSansGeorgian.ttf",
+      "name": "Droid Sans Georgian",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusSansNarrow-Bold.otf",
+      "name": "Nimbus Sans Narrow",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmmonolt10-boldoblique.otf",
+      "name": "Latin Modern Mono Light",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmroman12-regular.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmmonoltcond10-oblique.otf",
+      "name": "Latin Modern Mono Light Cond",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatDisplay-Medium.otf",
+      "name": "Red Hat Display",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 596,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontMono-ExtraBold.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSerifTamil-Italic[wght].ttf",
+      "name": "Noto Serif Tamil",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/adobe-source-code-pro-fonts/SourceCodePro-Black.otf",
+      "name": "Source Code Pro",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 900,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFont-ExtraLight.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/liberation-mono-fonts/LiberationMono-BoldItalic.ttf",
+      "name": "Liberation Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFont-ExtraBold.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/MapleMono/MapleMono-LightItalic.ttf",
+      "name": "Maple Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/abattis-cantarell-fonts/Cantarell-Bold.otf",
+      "name": "Cantarell",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSerifSinhala[wght].ttf",
+      "name": "Noto Serif Sinhala",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontPropo-SemiBoldItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmsans17-regular.otf",
+      "name": "Latin Modern Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansGurmukhi[wght].ttf",
+      "name": "Noto Sans Gurmukhi",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/MapleMono/MapleMono-Light.ttf",
+      "name": "Maple Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/julietaula-montserrat-fonts/Montserrat-Regular.otf",
+      "name": "Montserrat",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/stix-fonts/STIXTwoText-BoldItalic.otf",
+      "name": "STIX Two Text",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/open-sans/OpenSans-BoldItalic.ttf",
+      "name": "Open Sans",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFont-ExtraBoldItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/adobe-source-code-pro-fonts/SourceCodePro-ExtraLightIt.otf",
+      "name": "Source Code Pro",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmroman10-bolditalic.otf",
+      "name": "Latin Modern Roman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontPropo-Regular.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontPropo-SemiBold.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansCherokee[wght].ttf",
+      "name": "Noto Sans Cherokee",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontMono-ExtraLightItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFont-MediumItalic.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmroman5-regular.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmmono10-regular.otf",
+      "name": "Latin Modern Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto/NotoSansNKo-Regular.ttf",
+      "name": "Noto Sans NKo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansThai[wght].ttf",
+      "name": "Noto Sans Thai",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontMono-SemiBoldItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansSinhala[wght].ttf",
+      "name": "Noto Sans Sinhala",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFont-ThinItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFont-ThinItalic.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/URWGothic-Book.otf",
+      "name": "URW Gothic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatText-SemiBoldItalic.otf",
+      "name": "Red Hat Text",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 632,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmsans9-oblique.otf",
+      "name": "Latin Modern Sans",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontPropo-SemiBold.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/stix-fonts/STIXTwoText-SemiBoldItalic.otf",
+      "name": "STIX Two Text",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/fontawesome-6-brands-fonts/Font Awesome 6 Brands-Regular-400.otf",
+      "name": "Font Awesome 6 Brands",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatText-LightItalic.otf",
+      "name": "Red Hat Text",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmromandunh10-regular.otf",
+      "name": "Latin Modern Roman Dunhill",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmromanslant12-regular.otf",
+      "name": "Latin Modern Roman Slanted",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSerifKhmer[wght].ttf",
+      "name": "Noto Serif Khmer",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-color-emoji-fonts/Noto-COLRv1.ttf",
+      "name": "Noto Color Emoji",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontPropo-Light.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/adobe-source-code-pro-fonts/SourceCodePro-It.otf",
+      "name": "Source Code Pro",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontMono-Regular.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/adwaita-mono-fonts/AdwaitaMono-BoldItalic.ttf",
+      "name": "Adwaita Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontMono-ExtraBoldItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatText-BoldItalic.otf",
+      "name": "Red Hat Text",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmromanslant17-regular.otf",
+      "name": "Latin Modern Roman Slanted",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/C059-Roman.otf",
+      "name": "C059",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSerifBengali[wght].ttf",
+      "name": "Noto Serif Bengali",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatText-Medium.otf",
+      "name": "Red Hat Text",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 565,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmromanslant10-regular.otf",
+      "name": "Latin Modern Roman Slanted",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmsansquot8-oblique.otf",
+      "name": "Latin Modern Sans Quotation",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmmonoproplt10-oblique.otf",
+      "name": "Latin Modern Mono Prop Light",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontMono-SemiBold.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontPropo-BoldItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/liberation-mono-fonts/LiberationMono-Italic.ttf",
+      "name": "Liberation Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansKannada[wght].ttf",
+      "name": "Noto Sans Kannada",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmmonocaps10-regular.otf",
+      "name": "Latin Modern Mono Caps",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansMeeteiMayek[wght].ttf",
+      "name": "Noto Sans Meetei Mayek",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusSansNarrow-BoldOblique.otf",
+      "name": "Nimbus Sans Narrow",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontPropo-ThinItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/jomolhari-fonts/Jomolhari-alpha3c-0605331.ttf",
+      "name": "Jomolhari",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmroman12-italic.otf",
+      "name": "Latin Modern Roman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontPropo-Italic.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/fontawesome-6-free-fonts/Font Awesome 6 Free-Solid-900.otf",
+      "name": "Font Awesome 6 Free",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 900,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansOlChiki[wght].ttf",
+      "name": "Noto Sans Ol Chiki",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFont-SemiBold.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto/NotoSansSymbols2-Regular.ttf",
+      "name": "Noto Sans Symbols 2",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontMono-MediumItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFont-Regular.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFont-LightItalic.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/julietaula-montserrat-fonts/Montserrat-SemiBold.otf",
+      "name": "Montserrat",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmroman10-italic.otf",
+      "name": "Latin Modern Roman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontMono-ExtraLight.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmroman7-italic.otf",
+      "name": "Latin Modern Roman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmsans10-bold.otf",
+      "name": "Latin Modern Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansSyriac[wght].ttf",
+      "name": "Noto Sans Syriac",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontMono-ThinItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/CascadiaCove/Caskaydia Cove Nerd Font Complete Regular.otf",
+      "name": "CaskaydiaCove Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmroman8-italic.otf",
+      "name": "Latin Modern Roman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFont-SemiBold.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/stix-fonts/STIXTwoText-Bold.otf",
+      "name": "STIX Two Text",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontPropo-ThinItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFont-Medium.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/abattis-cantarell-fonts/Cantarell-Thin.otf",
+      "name": "Cantarell",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSerif-Italic[wght].ttf",
+      "name": "Noto Serif",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/MapleMono/MapleMono-Bold.ttf",
+      "name": "Maple Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatText-Light.otf",
+      "name": "Red Hat Text",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFont-ThinItalic.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansArmenian[wght].ttf",
+      "name": "Noto Sans Armenian",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontMono-MediumItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontMono-ExtraLightItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-sans-cjk-vf-fonts/NotoSansCJK-VF.ttc",
+      "name": "Noto Sans CJK JP",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/adobe-source-code-pro-fonts/SourceCodePro-Bold.otf",
+      "name": "Source Code Pro",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontMono-Regular.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-crosextra-caladea-fonts/Caladea-BoldItalic.ttf",
+      "name": "Caladea",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontMono-Thin.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/Mononoki/mononoki-Regular Nerd Font Complete.ttf",
+      "name": "mononoki Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansEthiopic[wght].ttf",
+      "name": "Noto Sans Ethiopic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansHebrew[wght].ttf",
+      "name": "Noto Sans Hebrew",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-crosextra-caladea-fonts/Caladea-Italic.ttf",
+      "name": "Caladea",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansTelugu[wght].ttf",
+      "name": "Noto Sans Telugu",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/aajohan-comfortaa-fonts/Comfortaa-Bold.otf",
+      "name": "Comfortaa",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/adobe-source-code-pro-fonts/SourceCodePro-BoldIt.otf",
+      "name": "Source Code Pro",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFont-ExtraBold.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFont-SemiBold.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmroman9-bold.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansMono[wght].ttf",
+      "name": "Noto Sans Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-carlito-fonts/Carlito-BoldItalic.ttf",
+      "name": "Carlito",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmsans17-oblique.otf",
+      "name": "Latin Modern Sans",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontPropo-ExtraLightItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/liberation-sans-fonts/LiberationSans-Italic.ttf",
+      "name": "Liberation Sans",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFont-LightItalic.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/D050000L.otf",
+      "name": "D050000L",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFont-BoldItalic.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontPropo-ThinItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmroman7-regular.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/fontawesome-6-free-fonts/Font Awesome 6 Free-Regular-400.otf",
+      "name": "Font Awesome 6 Free",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmroman8-regular.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/liberation-narrow/LiberationSansNarrow-Bold.ttf",
+      "name": "Liberation Sans Narrow",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusRoman-Italic.otf",
+      "name": "Nimbus Roman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontPropo-Bold.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontPropo-ExtraLightItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatDisplay-Italic.otf",
+      "name": "Red Hat Display",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusSansNarrow-Regular.otf",
+      "name": "Nimbus Sans Narrow",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontPropo-Light.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatDisplay-Black.otf",
+      "name": "Red Hat Display",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 900,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm-math/latinmodern-math.otf",
+      "name": "Latin Modern Math",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontPropo-Light.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontMono-Thin.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/stix-fonts/STIXTwoText-SemiBold.otf",
+      "name": "STIX Two Text",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/sil-padauk-fonts/Padauk-Regular.ttf",
+      "name": "Padauk",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-sans-mono-cjk-vf-fonts/NotoSansMonoCJK-VF.ttc",
+      "name": "Noto Sans Mono CJK JP",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontMono-BoldItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontMono-MediumItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/liberation-narrow/LiberationSansNarrow-BoldItalic.ttf",
+      "name": "Liberation Sans Narrow",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontPropo-SemiBold.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatText-Italic.otf",
+      "name": "Red Hat Text",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontPropo-SemiBoldItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/julietaula-montserrat-fonts/Montserrat-ExtraBoldItalic.otf",
+      "name": "Montserrat",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansGujarati[wght].ttf",
+      "name": "Noto Sans Gujarati",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/adobe-source-code-pro-fonts/SourceCodePro-BlackIt.otf",
+      "name": "Source Code Pro",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 900,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/dejavu-sans-fonts/DejaVuSans-BoldOblique.ttf",
+      "name": "DejaVu Sans",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmroman9-italic.otf",
+      "name": "Latin Modern Roman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-droid-sans-fonts/DroidKufi-Regular.ttf",
+      "name": "Droid Arabic Kufi",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFont-Regular.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/julietaula-montserrat-fonts/Montserrat-MediumItalic.otf",
+      "name": "Montserrat",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/P052-Bold.otf",
+      "name": "P052",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusRoman-Bold.otf",
+      "name": "Nimbus Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/MapleMono/MapleMono-BoldItalic.ttf",
+      "name": "Maple Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/adobe-source-code-pro-fonts/SourceCodePro-Medium.otf",
+      "name": "Source Code Pro",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/paktype-naskh-basic-fonts/PakTypeNaskhBasicWide.ttf",
+      "name": "PakType Naskh Basic Wide",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "expanded",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFont-ExtraBoldItalic.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmromanunsl10-regular.otf",
+      "name": "Latin Modern Roman Unslanted",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmsans8-regular.otf",
+      "name": "Latin Modern Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontPropo-ExtraLightItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmroman10-bold.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontMono-Light.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/oldstandard/OldStandard-Italic.otf",
+      "name": "Old Standard",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFont-ExtraBoldItalic.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/liberation-narrow/LiberationSansNarrow-Italic.ttf",
+      "name": "Liberation Sans Narrow",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFont-Medium.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatDisplay-Light.otf",
+      "name": "Red Hat Display",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontPropo-Regular.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontPropo-SemiBoldItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSerifHebrew[wght].ttf",
+      "name": "Noto Serif Hebrew",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/abattis-cantarell-fonts/Cantarell-ExtraBold.otf",
+      "name": "Cantarell",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/open-sans/OpenSans-Semibold.ttf",
+      "name": "Open Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontMono-SemiBold.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/dejavu-sans-fonts/DejaVuSans.ttf",
+      "name": "DejaVu Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFont-BoldItalic.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontPropo-ExtraLight.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/dejavu-sans-fonts/DejaVuSans-ExtraLight.ttf",
+      "name": "DejaVu Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-droid-sans-fonts/DroidKufi-Bold.ttf",
+      "name": "Droid Arabic Kufi",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/dejavu-sans-mono-fonts/DejaVuSansMono-Bold.ttf",
+      "name": "DejaVu Sans Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontPropo-Regular.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontMono-ExtraBold.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontPropo-LightItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFont-Regular.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/madan-fonts/madan.ttf",
+      "name": "Madan2",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSerifTamil[wght].ttf",
+      "name": "Noto Serif Tamil",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/C059-Bold.otf",
+      "name": "C059",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/Mononoki/mononoki-Regular Nerd Font Complete Mono.ttf",
+      "name": "mononoki Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusSans-Bold.otf",
+      "name": "Nimbus Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/gdouros-symbola/Symbola.ttf",
+      "name": "Symbola",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-carlito-fonts/Carlito-Bold.ttf",
+      "name": "Carlito",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/julietaula-montserrat-fonts/Montserrat-ExtraLight.otf",
+      "name": "Montserrat",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansTamil[wght].ttf",
+      "name": "Noto Sans Tamil",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/julietaula-montserrat-fonts/Montserrat-Thin.otf",
+      "name": "Montserrat",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmroman17-regular.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/opensymbol/opens___.ttf",
+      "name": "OpenSymbol",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontMono-ExtraLight.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFont-MediumItalic.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto/NotoSansYi-Regular.ttf",
+      "name": "Noto Sans Yi",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/open-sans/OpenSans-ExtraBoldItalic.ttf",
+      "name": "Open Sans",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-carlito-fonts/Carlito-Italic.ttf",
+      "name": "Carlito",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansSymbols[wght].ttf",
+      "name": "Noto Sans Symbols",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto/NotoSansMath-Regular.ttf",
+      "name": "Noto Sans Math",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFont-SemiBoldItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansOriya[wght].ttf",
+      "name": "Noto Sans Oriya",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFont-MediumItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontPropo-Thin.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFont-BoldItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmsans10-oblique.otf",
+      "name": "Latin Modern Sans",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontPropo-SemiBoldItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-droid-sans-fonts/DroidSansThai.ttf",
+      "name": "Droid Sans Thai",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontPropo-MediumItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/MapleMono/MapleMono-Regular.ttf",
+      "name": "Maple Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-droid-sans-fonts/DroidSansEthiopic-Regular.ttf",
+      "name": "Droid Sans Ethiopic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSerifGurmukhi[wght].ttf",
+      "name": "Noto Serif Gurmukhi",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/fontawesome/FontAwesome.otf",
+      "name": "FontAwesome",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFont-ExtraLightItalic.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontPropo-Medium.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontMono-Medium.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFont-ExtraLight.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansThaana[wght].ttf",
+      "name": "Noto Sans Thaana",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSerifEthiopic[wght].ttf",
+      "name": "Noto Serif Ethiopic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontPropo-ExtraBold.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/open-sans/OpenSans-Regular.ttf",
+      "name": "Open Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSerifGujarati[wght].ttf",
+      "name": "Noto Serif Gujarati",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontPropo-Italic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/open-sans/OpenSans-Italic.ttf",
+      "name": "Open Sans",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontPropo-BoldItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/aajohan-comfortaa-fonts/Comfortaa-Medium.otf",
+      "name": "Comfortaa",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmmonoproplt10-bold.otf",
+      "name": "Latin Modern Mono Prop Light",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmromandunh10-oblique.otf",
+      "name": "Latin Modern Roman Dunhill",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmsans12-regular.otf",
+      "name": "Latin Modern Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmmono9-regular.otf",
+      "name": "Latin Modern Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/paktype-naskh-basic-fonts/PakTypeNaskhBasic.ttf",
+      "name": "PakType Naskh Basic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmroman7-bold.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatText-Regular.otf",
+      "name": "Red Hat Text",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/abattis-cantarell-vf-fonts/Cantarell-VF.otf",
+      "name": "Cantarell",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFont-ExtraLight.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontPropo-Italic.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-crosextra-caladea-fonts/Caladea-Regular.ttf",
+      "name": "Caladea",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontPropo-Bold.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontMono-ExtraBoldItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/adobe-source-code-pro-fonts/SourceCodePro-MediumIt.otf",
+      "name": "Source Code Pro",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontPropo-LightItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/aajohan-comfortaa-fonts/Comfortaa-Light.otf",
+      "name": "Comfortaa",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontMono-ExtraBold.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontMono-SemiBold.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontMono-Medium.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontPropo-ThinItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/liberation-mono-fonts/LiberationMono-Regular.ttf",
+      "name": "Liberation Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/julietaula-montserrat-fonts/Montserrat-ThinItalic.otf",
+      "name": "Montserrat",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontPropo-Italic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontMono-Bold.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFont-LightItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatDisplay-Bold.otf",
+      "name": "Red Hat Display",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 799,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/liberation-sans-fonts/LiberationSans-Bold.ttf",
+      "name": "Liberation Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontMono-Medium.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-droid-sans-fonts/DroidSans-Bold.ttf",
+      "name": "Droid Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/julietaula-montserrat-fonts/Montserrat-Black.otf",
+      "name": "Montserrat",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 900,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatDisplay-MediumItalic.otf",
+      "name": "Red Hat Display",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 596,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmsans8-oblique.otf",
+      "name": "Latin Modern Sans",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusMonoPS-BoldItalic.otf",
+      "name": "Nimbus Mono PS",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/URWBookman-Light.otf",
+      "name": "URW Bookman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontPropo-BoldItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/sil-padauk-fonts/Padauk-Bold.ttf",
+      "name": "Padauk",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/C059-Italic.otf",
+      "name": "C059",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFont-Thin.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmmonoslant10-regular.otf",
+      "name": "Latin Modern Mono Slanted",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/P052-Italic.otf",
+      "name": "P052",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontMono-ExtraBoldItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontMono-ExtraBoldItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/dejavu-sans-fonts/DejaVuSansCondensed.ttf",
+      "name": "DejaVu Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/open-sans/OpenSans-Bold.ttf",
+      "name": "Open Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-carlito-fonts/Carlito-Regular.ttf",
+      "name": "Carlito",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/rit-rachana-fonts/RIT-Rachana-BoldItalic.otf",
+      "name": "RIT Rachana",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatText-Bold.otf",
+      "name": "Red Hat Text",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontPropo-Light.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmsansdemicond10-regular.otf",
+      "name": "Latin Modern Sans Demi Cond",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontPropo-Medium.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/liberation-serif-fonts/LiberationSerif-Italic.ttf",
+      "name": "Liberation Serif",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/dejavu-sans-fonts/DejaVuSansCondensed-BoldOblique.ttf",
+      "name": "DejaVu Sans",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/NotoSansCJK/NotoSansCJK-Regular.ttc",
+      "name": "Noto Sans CJK JP",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontMono-Regular.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFont-ExtraBold.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/adobe-source-code-pro-fonts/SourceCodePro-LightIt.otf",
+      "name": "Source Code Pro",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmmonocaps10-oblique.otf",
+      "name": "Latin Modern Mono Caps",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontMono-BoldItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/rit-meera-new-fonts/RIT-MeeraNew.otf",
+      "name": "RIT Meera New",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFont-Medium.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/adwaita-mono-fonts/AdwaitaMono-Regular.ttf",
+      "name": "Adwaita Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/vazirmatn-vf-fonts/Vazirmatn[wght].ttf",
+      "name": "Vazirmatn",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFont-SemiBold.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansBengali[wght].ttf",
+      "name": "Noto Sans Bengali",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-serif-cjk-vf-fonts/NotoSerifCJK-VF.ttc",
+      "name": "Noto Serif CJK JP",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFont-ExtraLightItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontPropo-ExtraLight.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmmonoprop10-regular.otf",
+      "name": "Latin Modern Mono Prop",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmromandemi10-regular.otf",
+      "name": "Latin Modern Roman Demi",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmromandemi10-oblique.otf",
+      "name": "Latin Modern Roman Demi",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmromancaps10-regular.otf",
+      "name": "Latin Modern Roman Caps",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontPropo-SemiBold.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFont-Thin.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/julietaula-montserrat-fonts/Montserrat-ExtraBold.otf",
+      "name": "Montserrat",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/rit-rachana-fonts/RIT-Rachana-Bold.otf",
+      "name": "RIT Rachana",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-droid-sans-fonts/DroidSans.ttf",
+      "name": "Droid Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoNaskhArabic[wght].ttf",
+      "name": "Noto Naskh Arabic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusSans-Italic.otf",
+      "name": "Nimbus Sans",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/URWGothic-Demi.otf",
+      "name": "URW Gothic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontMono-SemiBoldItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansGeorgian[wght].ttf",
+      "name": "Noto Sans Georgian",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-droid-sans-fonts/DroidSansJapanese.ttf",
+      "name": "Droid Sans Japanese",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmsans9-regular.otf",
+      "name": "Latin Modern Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/URWBookman-Demi.otf",
+      "name": "URW Bookman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontPropo-MediumItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-droid-sans-fonts/DroidSansHebrew-Regular.ttf",
+      "name": "Droid Sans Hebrew",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/CascadiaCove/Caskaydia Cove Nerd Font Complete Mono Regular.otf",
+      "name": "CaskaydiaCove Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-crosextra-caladea-fonts/Caladea-Bold.ttf",
+      "name": "Caladea",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/adwaita-mono-fonts/AdwaitaMono-Italic.ttf",
+      "name": "Adwaita Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-emoji-fonts/NotoEmoji-Regular.ttf",
+      "name": "Noto Emoji",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontPropo-ExtraBoldItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFont-Bold.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmroman8-bold.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontMono-Regular.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontPropo-ExtraBold.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmmono12-regular.otf",
+      "name": "Latin Modern Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontPropo-ExtraBoldItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFont-ExtraLightItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontPropo-Medium.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontPropo-Thin.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontPropo-Bold.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatDisplay-BlackItalic.otf",
+      "name": "Red Hat Display",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 900,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontMono-ExtraBold.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontPropo-ExtraBold.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontPropo-Regular.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-droid-sans-fonts/DroidSansTamil-Bold.ttf",
+      "name": "Droid Sans Tamil",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/URWGothic-BookOblique.otf",
+      "name": "URW Gothic",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/abattis-cantarell-fonts/Cantarell-Light.otf",
+      "name": "Cantarell",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSerifGeorgian[wght].ttf",
+      "name": "Noto Serif Georgian",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFont-LightItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/stix-fonts/STIXTwoMath-Regular.otf",
+      "name": "STIX Two Math",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/abattis-cantarell-fonts/Cantarell-Regular.otf",
+      "name": "Cantarell",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontPropo-ExtraBoldItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmromanslant9-regular.otf",
+      "name": "Latin Modern Roman Slanted",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/URWBookman-LightItalic.otf",
+      "name": "URW Bookman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/Z003-MediumItalic.otf",
+      "name": "Z003",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontMono-Italic.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontPropo-ExtraLight.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusSans-BoldItalic.otf",
+      "name": "Nimbus Sans",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSans[wght].ttf",
+      "name": "Noto Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFont-Light.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSerifTelugu[wght].ttf",
+      "name": "Noto Serif Telugu",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFont-BoldItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFont-Medium.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFont-Italic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/open-sans/OpenSans-LightItalic.ttf",
+      "name": "Open Sans",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontPropo-ExtraBold.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFont-Light.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmroman6-regular.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSerifDevanagari[wght].ttf",
+      "name": "Noto Serif Devanagari",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmmonolt10-bold.otf",
+      "name": "Latin Modern Mono Light",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/dejavu-sans-fonts/DejaVuSansCondensed-Bold.ttf",
+      "name": "DejaVu Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-droid-sans-fonts/DroidSansDevanagari-Regular.ttf",
+      "name": "Droid Sans Devanagari",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/adobe-source-code-pro-fonts/SourceCodePro-Light.otf",
+      "name": "Source Code Pro",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontMono-ExtraLightItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontMono-Thin.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/julietaula-montserrat-fonts/Montserrat-BlackItalic.otf",
+      "name": "Montserrat",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 900,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/dejavu-sans-fonts/DejaVuSansCondensed-Oblique.ttf",
+      "name": "DejaVu Sans",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmmonoprop10-oblique.otf",
+      "name": "Latin Modern Mono Prop",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontMono-Light.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/adwaita-sans-fonts/AdwaitaSans-Italic.ttf",
+      "name": "Adwaita Sans",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/stix-fonts/STIXTwoText-Medium.otf",
+      "name": "STIX Two Text",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFont-SemiBoldItalic.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFont-Italic.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmroman12-bold.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFont-ExtraLight.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/adobe-source-code-pro-fonts/SourceCodePro-Semibold.otf",
+      "name": "Source Code Pro",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/adobe-source-code-pro-fonts/SourceCodePro-SemiboldIt.otf",
+      "name": "Source Code Pro",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontMono-SemiBold.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmromanslant10-bold.otf",
+      "name": "Latin Modern Roman Slanted",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatDisplay-SemiBold.otf",
+      "name": "Red Hat Display",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 707,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFont-Thin.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontPropo-MediumItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/open-sans/OpenSans-Light.ttf",
+      "name": "Open Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFont-Bold.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmsans10-boldoblique.otf",
+      "name": "Latin Modern Sans",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmroman9-regular.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontPropo-BoldItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/MapleMono/MapleMono-Italic.ttf",
+      "name": "Maple Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/liberation-sans-fonts/LiberationSans-BoldItalic.ttf",
+      "name": "Liberation Sans",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusMonoPS-Bold.otf",
+      "name": "Nimbus Mono PS",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmsans10-regular.otf",
+      "name": "Latin Modern Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontMono-Medium.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmsansquot8-bold.otf",
+      "name": "Latin Modern Sans Quotation",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/dejavu-sans-fonts/DejaVuSans-Oblique.ttf",
+      "name": "DejaVu Sans",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontMono-SemiBoldItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmromanslant8-regular.otf",
+      "name": "Latin Modern Roman Slanted",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontMono-LightItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontMono-LightItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/URWBookman-DemiItalic.otf",
+      "name": "URW Bookman",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/paktype-naskh-basic-fonts/PakTypeNaskhBasicSemiWide.ttf",
+      "name": "PakType Naskh Basic Semi Wide",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "expanded",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/stix-fonts/STIXTwoText-Italic.otf",
+      "name": "STIX Two Text",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFont-ExtraBoldItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontMono-ThinItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusMonoPS-Regular.otf",
+      "name": "Nimbus Mono PS",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSerifLao[wght].ttf",
+      "name": "Noto Serif Lao",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontMono-Italic.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmmono8-regular.otf",
+      "name": "Latin Modern Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFont-Light.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontMono-MediumItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/P052-BoldItalic.otf",
+      "name": "P052",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/liberation-mono-fonts/LiberationMono-Bold.ttf",
+      "name": "Liberation Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/fontawesome/fontawesome-webfont.ttf",
+      "name": "FontAwesome",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-droid-sans-fonts/DroidSansEthiopic-Bold.ttf",
+      "name": "Droid Sans Ethiopic",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontPropo-Thin.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontMono-LightItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/julietaula-montserrat-fonts/Montserrat-ExtraLightItalic.otf",
+      "name": "Montserrat",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-droid-sans-fonts/DroidSansHebrew-Bold.ttf",
+      "name": "Droid Sans Hebrew",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontMono-ExtraLightItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/adwaita-sans-fonts/AdwaitaSans-Regular.ttf",
+      "name": "Adwaita Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontMono-ExtraLight.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmmonoproplt10-boldoblique.otf",
+      "name": "Latin Modern Mono Prop Light",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFont-MediumItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansKhmer[wght].ttf",
+      "name": "Noto Sans Khmer",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/julietaula-montserrat-fonts/Montserrat-SemiBoldItalic.otf",
+      "name": "Montserrat",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontPropo-Medium.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontMono-ExtraLight.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansDevanagari[wght].ttf",
+      "name": "Noto Sans Devanagari",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-droid-sans-fonts/DroidSansFallbackFull.ttf",
+      "name": "Droid Sans Fallback",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontPropo-ExtraLightItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmmonoltcond10-regular.otf",
+      "name": "Latin Modern Mono Light Cond",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFont-Thin.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFont-Bold.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/dejavu-sans-mono-fonts/DejaVuSansMono.ttf",
+      "name": "DejaVu Sans Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontMono-SemiBoldItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmmonoproplt10-regular.otf",
+      "name": "Latin Modern Mono Prop Light",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontPropo-MediumItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 500,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFont-SemiBoldItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusSansNarrow-Oblique.otf",
+      "name": "Nimbus Sans Narrow",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrains/JetBrains-Mono-Nerd-Font-Complete.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/julietaula-montserrat-fonts/Montserrat-Bold.otf",
+      "name": "Montserrat",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/oldstandard/OldStandard-Bold.otf",
+      "name": "Old Standard",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatText-SemiBold.otf",
+      "name": "Red Hat Text",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 632,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusSans-Regular.otf",
+      "name": "Nimbus Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmsansdemicond10-oblique.otf",
+      "name": "Latin Modern Sans Demi Cond",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/URWGothic-DemiOblique.otf",
+      "name": "URW Gothic",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmmono10-italic.otf",
+      "name": "Latin Modern Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/P052-Roman.otf",
+      "name": "P052",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansCanadianAboriginal[wght].ttf",
+      "name": "Noto Sans Canadian Aboriginal",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatDisplay-ExtraBold.otf",
+      "name": "Red Hat Display",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 849,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmroman5-bold.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSansLao[wght].ttf",
+      "name": "Noto Sans Lao",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatDisplay-ExtraBoldItalic.otf",
+      "name": "Red Hat Display",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 849,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusMonoPS-Italic.otf",
+      "name": "Nimbus Mono PS",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/liberation-serif-fonts/LiberationSerif-BoldItalic.ttf",
+      "name": "Liberation Serif",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/MaterialDesign/MaterialDesignIcons.ttf",
+      "name": "Material Design Icons Desktop",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFontMono-Bold.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/aajohan-comfortaa-fonts/Comfortaa-Regular.otf",
+      "name": "Comfortaa",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFont-ThinItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/dejavu-sans-mono-fonts/DejaVuSansMono-BoldOblique.ttf",
+      "name": "DejaVu Sans Mono",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFont-SemiBoldItalic.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSerif[wght].ttf",
+      "name": "Noto Serif",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/rit-rachana-fonts/RIT-Rachana-Regular.otf",
+      "name": "RIT Rachana",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontMono-ThinItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 100,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/open-sans/OpenSans-ExtraBold.ttf",
+      "name": "Open Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontMono-LightItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmsansquot8-boldoblique.otf",
+      "name": "Latin Modern Sans Quotation",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFontPropo-ExtraLight.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/urw-base35/NimbusRoman-Regular.otf",
+      "name": "Nimbus Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontPropo-ExtraBoldItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/liberation-narrow/LiberationSansNarrow-Regular.ttf",
+      "name": "Liberation Sans Narrow",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "condensed",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNLNerdFontPropo-LightItalic.ttf",
+      "name": "JetBrainsMonoNL Nerd Font Propo",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 300,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/open-sans/OpenSans-SemiboldItalic.ttf",
+      "name": "Open Sans",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 600,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFont-ExtraLightItalic.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/oldstandard/OldStandard-Regular.otf",
+      "name": "Old Standard",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNLNerdFont-Bold.ttf",
+      "name": "JetBrainsMonoNL Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/liberation-sans-fonts/LiberationSans-Regular.ttf",
+      "name": "Liberation Sans",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSans-Italic[wght].ttf",
+      "name": "Noto Sans",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatText-MediumItalic.otf",
+      "name": "Red Hat Text",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 565,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/liberation-serif-fonts/LiberationSerif-Bold.ttf",
+      "name": "Liberation Serif",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSerifArmenian[wght].ttf",
+      "name": "Noto Serif Armenian",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmmonolt10-oblique.otf",
+      "name": "Latin Modern Mono Light",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/adobe-source-code-pro-fonts/SourceCodePro-ExtraLight.otf",
+      "name": "Source Code Pro",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 200,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/home/beatrizdiniz/.local/share/fonts/JetBrainsMonoNerdFont-ExtraBold.ttf",
+      "name": "JetBrainsMono Nerd Font",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 800,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/rit-rachana-fonts/RIT-Rachana-Italic.otf",
+      "name": "RIT Rachana",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmromancaps10-oblique.otf",
+      "name": "Latin Modern Roman Caps",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/redhat/RedHatDisplay-Regular.otf",
+      "name": "Red Hat Display",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/google-noto-vf/NotoSerifThai[wght].ttf",
+      "name": "Noto Serif Thai",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/local/share/fonts/nerd-fonts/JetBrainsMonoNerdFontMono-BoldItalic.ttf",
+      "name": "JetBrainsMono Nerd Font Mono",
+      "style": "italic",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/lm/lmroman6-bold.otf",
+      "name": "Latin Modern Roman",
+      "style": "normal",
+      "variant": "normal",
+      "weight": 700,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    },
+    {
+      "fname": "/usr/share/fonts/dejavu-sans-mono-fonts/DejaVuSansMono-Oblique.ttf",
+      "name": "DejaVu Sans Mono",
+      "style": "oblique",
+      "variant": "normal",
+      "weight": 400,
+      "stretch": "normal",
+      "size": "scalable",
+      "__class__": "FontEntry"
+    }
+  ],
+  "__class__": "FontManager"
+}

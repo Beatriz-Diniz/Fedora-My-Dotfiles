@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repomd xmlns="http://linux.duke.edu/metadata/repo" xmlns:rpm="http://linux.duke.edu/metadata/rpm">
+  <revision>1781012382</revision>
+  <data type="primary">
+    <checksum type="sha256">73e1b83faaf638215fcda3756320ec1f7866e725b55c6d5238fc5b39ff444172</checksum>
+    <open-checksum type="sha256">3096c7366869bd2fe77a2d52a706805ced754db821ac31c11b1f1b0b4058ff28</open-checksum>
+    <location href="repodata/73e1b83faaf638215fcda3756320ec1f7866e725b55c6d5238fc5b39ff444172-primary.xml.gz"/>
+    <timestamp>1781012382</timestamp>
+    <size>1998</size>
+    <open-size>11090</open-size>
+  </data>
+  <data type="filelists">
+    <checksum type="sha256">eccaf2f065677ca55f736d339678bf3300dd6cfd65ff6637f5789038e1762808</checksum>
+    <open-checksum type="sha256">461591e607ce7430fb148c1ff00d3a786e88b882fcc15f37fa908328ddca709e</open-checksum>
+    <location href="repodata/eccaf2f065677ca55f736d339678bf3300dd6cfd65ff6637f5789038e1762808-filelists.xml.gz"/>
+    <timestamp>1781012382</timestamp>
+    <size>77890</size>
+    <open-size>1451569</open-size>
+  </data>
+  <data type="other">
+    <checksum type="sha256">8b75bd98de20bb342d4579d0da781ae2b7f5800dabc37379e0f6036aaddec7f3</checksum>
+    <open-checksum type="sha256">359c37a01acaa1767cefd9d48a7caf821390ab2707796349223a74fad3b3cdd4</open-checksum>
+    <location href="repodata/8b75bd98de20bb342d4579d0da781ae2b7f5800dabc37379e0f6036aaddec7f3-other.xml.gz"/>
+    <timestamp>1781012382</timestamp>
+    <size>1395</size>
+    <open-size>12398</open-size>
+  </data>
+  <data type="appstream">
+    <checksum type="sha256">5780ddd51d0842e777be5534a64400e33f8ea152af69bc009f1b0ee7d5c263bf</checksum>
+    <location href="repodata/5780ddd51d0842e777be5534a64400e33f8ea152af69bc009f1b0ee7d5c263bf-appstream.xml"/>
+    <timestamp>1781012430</timestamp>
+    <size>3542</size>
+  </data>
+  <data type="appstream-icons">
+    <checksum type="sha256">f0d40412569465d60c1feb89f25c051dcab10a7e3bbebbb77fbeeb96b894c328</checksum>
+    <location href="repodata/f0d40412569465d60c1feb89f25c051dcab10a7e3bbebbb77fbeeb96b894c328-appstream-icons.tar"/>
+    <timestamp>1781012430</timestamp>
+    <size>8192</size>
+  </data>
+</repomd>

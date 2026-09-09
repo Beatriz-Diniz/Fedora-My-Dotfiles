@@ -1,0 +1,199 @@
+--------------------------------------------
+   Hyprland Crash Report
+--------------------------------------------
+I tried so hard, and got so far...
+
+Hyprland received signal 6(ABRT)
+Version: a0136d8c04687bb36eb8a28eb9d1ff92aea99704
+Tag: v0.55.4
+Date: Thu Jun 11 17:10:04 2026
+Flags:
+
+System info:
+	System name: Linux
+	Node name: fedora
+	Release: 7.0.12-201.fc44.x86_64
+	Version: #1 SMP PREEMPT_DYNAMIC Thu Jun 11 01:30:16 UTC 2026
+
+GPU:
+	0000:00:02.0 VGA compatible controller [0300]: Intel Corporation Raptor Lake-P [Iris Xe Graphics] [8086:a7a0] (rev 04) (prog-if 00 [VGA controller])
+
+
+os-release:
+	NAME="Fedora Linux"
+	VERSION="44 (Workstation Edition)"
+	RELEASE_TYPE=stable
+	ID=fedora
+	VERSION_ID=44
+	VERSION_CODENAME=""
+	PRETTY_NAME="Fedora Linux 44 (Workstation Edition)"
+	ANSI_COLOR="0;38;2;60;110;180"
+	LOGO=fedora-logo-icon
+	CPE_NAME="cpe:/o:fedoraproject:fedora:44"
+	DEFAULT_HOSTNAME="fedora"
+	HOME_URL="https://fedoraproject.org/"
+	DOCUMENTATION_URL="https://docs.fedoraproject.org/en-US/fedora/f44/"
+	SUPPORT_URL="https://ask.fedoraproject.org/"
+	BUG_REPORT_URL="https://bugzilla.redhat.com/"
+	REDHAT_BUGZILLA_PRODUCT="Fedora"
+	REDHAT_BUGZILLA_PRODUCT_VERSION=44
+	REDHAT_SUPPORT_PRODUCT="Fedora"
+	REDHAT_SUPPORT_PRODUCT_VERSION=44
+	SUPPORT_END=2027-05-19
+	VARIANT="Workstation Edition"
+	VARIANT_ID=workstation
+
+Libraries:
+Hyprgraphics: built against 0.5.1, system has unknown
+Hyprutils: built against 0.13.1, system has unknown
+Hyprcursor: built against 0.1.13, system has unknown
+Hyprlang: built against 0.6.8, system has unknown
+Aquamarine: built against 0.12.1, system has unknown
+
+Backtrace:
+	# | Hyprland(_Z12getBacktracev+0x71) [0x55ac2a36a571]
+		getBacktrace()
+		??:?
+	#1 | Hyprland(_ZN13CrashReporter18createAndSaveCrashEi+0xc12) [0x55ac2a2b3412]
+		CrashReporter::createAndSaveCrash(int)
+		??:?
+	#2 | Hyprland(+0x261819) [0x55ac2a178819]
+		void std::println<>(_IO_FILE*, std::basic_format_string<char>)
+		??:?
+	#3 | /lib64/libc.so.6(+0x1a0b0) [0x7fa752b0a0b0]
+		??
+		??:0
+	#4 | /lib64/libc.so.6(+0x74dcc) [0x7fa752b64dcc]
+		??
+		??:0
+	#5 | /lib64/libc.so.6(gsignal+0x1e) [0x7fa752b09f8e]
+		??
+		??:0
+	#6 | Hyprland(_ZN6Render2GL15CHyprOpenGLImpl21renderTextureInternalEN9Hyprutils6Memory14CSharedPointerINS_8ITextureEEERKNS2_4Math4CBoxERKNS1_18STextureRenderDataE+0x3e8) [0x55ac2a790358]
+		Render::GL::CHyprOpenGLImpl::renderTextureInternal(Hyprutils::Memory::CSharedPointer<Render::ITexture>, Hyprutils::Math::CBox const&, Render::GL::CHyprOpenGLImpl::STextureRenderData const&)
+		??:?
+	#7 | Hyprland(_ZN6Render2GL15CHyprOpenGLImpl13renderTextureEN9Hyprutils6Memory14CSharedPointerINS_8ITextureEEERKNS2_4Math4CBoxENS1_18STextureRenderDataE+0x1ed) [0x55ac2a792cdd]
+		Render::GL::CHyprOpenGLImpl::renderTexture(Hyprutils::Memory::CSharedPointer<Render::ITexture>, Hyprutils::Math::CBox const&, Render::GL::CHyprOpenGLImpl::STextureRenderData)
+		??:?
+	#8 | Hyprland(_ZN6Render2GL18CGLElementRenderer4drawEN9Hyprutils6Memory12CWeakPointerI15CTexPassElementEERKNS2_4Math7CRegionE+0x224) [0x55ac2a7fa6c4]
+		Render::GL::CGLElementRenderer::draw(Hyprutils::Memory::CWeakPointer<CTexPassElement>, Hyprutils::Math::CRegion const&)
+		??:?
+	#9 | Hyprland(_ZN6Render16IElementRenderer7drawTexEN9Hyprutils6Memory12CWeakPointerI15CTexPassElementEERKNS1_4Math7CRegionE+0x25e) [0x55ac2a94433e]
+		Render::IElementRenderer::drawTex(Hyprutils::Memory::CWeakPointer<CTexPassElement>, Hyprutils::Math::CRegion const&)
+		??:?
+	#1 | Hyprland(_ZN6Render16IElementRenderer11drawElementEN9Hyprutils6Memory12CWeakPointerI12IPassElementEERKNS1_4Math7CRegionE+0x522) [0x55ac2a948aa2]
+		Render::IElementRenderer::drawElement(Hyprutils::Memory::CWeakPointer<IPassElement>, Hyprutils::Math::CRegion const&)
+		??:?
+	#11 | Hyprland(_ZN6Render13IHyprRenderer4drawEN9Hyprutils6Memory12CWeakPointerI12IPassElementEERKNS1_4Math7CRegionE+0xbc) [0x55ac2a7c526c]
+		Render::IHyprRenderer::draw(Hyprutils::Memory::CWeakPointer<IPassElement>, Hyprutils::Math::CRegion const&)
+		??:?
+	#12 | Hyprland(_ZN6Render11CRenderPass6renderERKN9Hyprutils4Math7CRegionE+0xe76) [0x55ac2a80b426]
+		Render::CRenderPass::render(Hyprutils::Math::CRegion const&)
+		??:?
+	#13 | Hyprland(_ZN6Render2GL15CHyprGLRenderer9endRenderERKSt8functionIFvvEE+0xcb) [0x55ac2a76688b]
+		Render::GL::CHyprGLRenderer::endRender(std::function<void ()> const&)
+		??:?
+	#14 | Hyprland(_ZN6Render13IHyprRenderer13renderMonitorEN9Hyprutils6Memory14CSharedPointerI8CMonitorEEb+0x15cf) [0x55ac2a7ce78f]
+		Render::IHyprRenderer::renderMonitor(Hyprutils::Memory::CSharedPointer<CMonitor>, bool)
+		??:?
+	#15 | Hyprland(_ZN22CMonitorFrameScheduler7onFrameEv+0x2ba) [0x55ac2a3a3aca]
+		CMonitorFrameScheduler::onFrame()
+		??:?
+	#16 | /lib64/libhyprutils.so.12(_ZN9Hyprutils6Signal15CSignalListener12emitInternalEPv+0x2d) [0x7fa7539a960d]
+		??
+		??:0
+	#17 | /lib64/libhyprutils.so.12(_ZN9Hyprutils6Signal11CSignalBase12emitInternalEPv+0x402) [0x7fa7539a9ad2]
+		??
+		??:0
+	#18 | /lib64/libaquamarine.so.11(+0x92ed2) [0x7fa753aa9ed2]
+		??
+		??:0
+	#19 | /lib64/libdrm.so.2(drmHandleEvent+0x135) [0x7fa7535c1795]
+		??
+		??:0
+	#2 | /lib64/libaquamarine.so.11(+0xa6de9) [0x7fa753abdde9]
+		??
+		??:0
+	#21 | Hyprland(+0x5c081a) [0x55ac2a4d781a]
+		Cursor::CShapeOverrideController::unsetOverride(Cursor::eCursorShapeOverrideGroup)
+		??:?
+	#22 | /lib64/libwayland-server.so.0(wl_event_loop_dispatch+0x1e2) [0x7fa75385f262]
+		??
+		??:0
+	#23 | /lib64/libwayland-server.so.0(wl_display_run+0x35) [0x7fa7538612d5]
+		??
+		??:0
+	#24 | Hyprland(_ZN17CEventLoopManager9enterLoopEv+0x2b6) [0x55ac2a4dadf6]
+		CEventLoopManager::enterLoop()
+		??:?
+	#25 | Hyprland(main+0x17d5) [0x55ac2a034305]
+		main
+		??:?
+	#26 | /lib64/libc.so.6(+0x3681) [0x7fa752af3681]
+		??
+		??:0
+	#27 | /lib64/libc.so.6(__libc_start_main+0x88) [0x7fa752af3798]
+		??
+		??:0
+	#28 | Hyprland(_start+0x25) [0x55ac2a1620c5]
+		_start
+		??:?
+
+
+Log tail:
+DEBUG from aquamarine ]: drm: Modesetting eDP-1 with 2560x1600@60.01Hz
+ERR from aquamarine ]: drm: Cannot commit when a page-flip is awaiting
+DEBUG from aquamarine ]: drm: Cursor buffer imported into KMS with id 554
+DEBUG from aquamarine ]: drm: Cursor buffer imported into KMS with id 562
+DEBUG from aquamarine ]: drm: Modesetting HDMI-A-1 with 2560x1080@59.98Hz
+ERR from aquamarine ]: drm: Cannot commit when a page-flip is awaiting
+DEBUG from aquamarine ]: drm: Cursor buffer imported into KMS with id 554
+DEBUG from aquamarine ]: drm: Cursor buffer imported into KMS with id 561
+DEBUG from aquamarine ]: drm: Cursor buffer imported into KMS with id 554
+DEBUG from aquamarine ]: drm: Cursor buffer imported into KMS with id 561
+DEBUG from aquamarine ]: drm: Modesetting HDMI-A-1 with 2560x1080@59.98Hz
+ERR from aquamarine ]: drm: Cannot commit when a page-flip is awaiting
+DEBUG from aquamarine ]: drm: Modesetting HDMI-A-1 with 2560x1080@59.98Hz
+ERR from aquamarine ]: drm: Cannot commit when a page-flip is awaiting
+DEBUG from aquamarine ]: backend: poll fd 13 for implementation headless
+DEBUG from aquamarine ]: backend: poll fd 36 for implementation drm
+DEBUG from aquamarine ]: backend: poll fd 14 for session
+DEBUG from aquamarine ]: backend: poll fd 16 for session
+DEBUG from aquamarine ]: backend: poll fd 17 for session
+DEBUG from aquamarine ]: backend: poll fd 37 for idle
+DEBUG from aquamarine ]: udev: new udev change event for card1
+DEBUG from aquamarine ]: udev: DRM device card1 changed
+DEBUG from aquamarine ]: drm: Got a lease event for /dev/dri/card1
+DEBUG from aquamarine ]: [libinput] event6  - VEN_04F3:00 04F3:32B1 Touchpad: SYN_DROPPED event - some input events have been lost.
+DEBUG from aquamarine ]: libinput: New device Compx 2.4G Dual Mode Mouse: 9741-4240
+DEBUG from aquamarine ]: libinput: New device Compx 2.4G Dual Mode Mouse Keyboard: 9741-4240
+DEBUG from aquamarine ]: libinput: New device VEN_04F3:00 04F3:32B1 Touchpad: 1267-12977
+DEBUG from aquamarine ]: libinput: New device VEN_04F3:00 04F3:32B1 Mouse: 1267-12977
+DEBUG from aquamarine ]: libinput: New device Video Bus: 0-6
+DEBUG from aquamarine ]: libinput: New device Intel HID events: 0-0
+DEBUG from aquamarine ]: libinput: New device Intel HID 5 button array: 0-0
+DEBUG from aquamarine ]: libinput: New device Power Button: 0-1
+DEBUG from aquamarine ]: libinput: New device Lid Switch: 0-5
+DEBUG from aquamarine ]: libinput: New device Sleep Button: 0-3
+DEBUG from aquamarine ]: libinput: New device Dell Privacy Driver: 0-0
+DEBUG from aquamarine ]: libinput: New device Dell WMI hotkeys: 0-0
+DEBUG from aquamarine ]: libinput: New device AT Translated Set 2 keyboard: 1-1
+DEBUG from aquamarine ]: libinput: New device PS/2 Generic Mouse: 2-1
+DEBUG from aquamarine ]: libinput: New device TH108 PRO-1: 1452-591
+DEBUG from aquamarine ]: drm: Cursor buffer imported into KMS with id 554
+DEBUG from aquamarine ]: drm: Cursor buffer imported into KMS with id 562
+DEBUG from aquamarine ]: drm: Cursor buffer imported into KMS with id 554
+DEBUG from aquamarine ]: drm: Cursor buffer imported into KMS with id 562
+DEBUG from aquamarine ]: drm: Cursor buffer imported into KMS with id 554
+DEBUG from aquamarine ]: drm: Cursor buffer imported into KMS with id 562
+DEBUG from aquamarine ]: drm: Cursor buffer imported into KMS with id 554
+DEBUG from aquamarine ]: drm: Cursor buffer imported into KMS with id 562
+DEBUG from aquamarine ]: drm: Modesetting eDP-1 with 2560x1600@60.01Hz
+DEBUG from aquamarine ]: drm: Cursor buffer imported into KMS with id 550
+DEBUG from aquamarine ]: drm: Cursor buffer imported into KMS with id 562
+DEBUG from aquamarine ]: drm: Modesetting HDMI-A-1 with 2560x1080@59.98Hz
+ERR from aquamarine ]: drm: Cannot commit when a page-flip is awaiting
+DEBUG from aquamarine ]: drm: Cursor buffer imported into KMS with id 550
+DEBUG from aquamarine ]: drm: Cursor buffer imported into KMS with id 561
+DEBUG from aquamarine ]: drm: Cursor buffer imported into KMS with id 550
+DEBUG from aquamarine ]: drm: Cursor buffer imported into KMS with id 561
