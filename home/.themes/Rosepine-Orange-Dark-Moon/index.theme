@@ -1,0 +1,12 @@
+Type=X-GNOME-Metatheme
+[Desktop Entry]
+Name=Rosepine-Orange-Dark-Moon
+Comment=An Flat Gtk+ theme based on Elegant Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Rosepine-Orange-Dark-Moon
+MetacityTheme=Rosepine-Orange-Dark-Moon
+IconTheme=Tela-circle-Dark
+CursorTheme=Rosepine-cursors
+ButtonLayout=close,minimize,maximize:menu
