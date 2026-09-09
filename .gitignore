@@ -28,3 +28,6 @@ home/.config/Code/logs/
 *.token
 *secret*
 *password*
+
+# Wallpapers grandes
+home/.config/hyde/themes/Catppuccin Latte/wallpapers/
