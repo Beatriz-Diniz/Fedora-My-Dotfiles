@@ -1,0 +1,3 @@
+#timeout 300 'swaylock -f -c 000000'         # bloqueia a tela após 5 min de inatividade
+#timeout 600 'systemctl suspend'             # suspende após 10 min
+before-sleep 'swaylock -f -c 000000'        # bloqueia imediatamente antes de suspender

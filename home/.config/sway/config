@@ -1,0 +1,18 @@
+# ~/.config/sway/config
+
+### Básico ###
+#swayidle -w \
+#    timeout 5 'swaylock -f -c 000000' \
+#    timeout 10 'systemctl suspend' \
+#    before-sleep 'swaylock -f -c 000000'
+
+### Entradas ###
+input * {
+    xkb_layout br
+}
+
+### Saída ###
+output * bg #000000 solid_color
+
+### Teclas ###
+bindsym $mod+Shift+e e
