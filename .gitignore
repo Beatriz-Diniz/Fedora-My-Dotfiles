@@ -34,3 +34,7 @@ home/.config/hyde/themes/Catppuccin Latte/wallpapers/
 
 # Wallpapers grandes
 home/.config/hyde/themes/Decay Green/wallpapers/
+
+# Arquivos de mídia grandes
+*.gif
+*.mp4
