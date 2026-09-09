@@ -1,0 +1,17 @@
+[General]
+TerminalApplication=kitty
+
+[Icons]
+Theme=Tela-circle-pink
+
+[KDE]
+widgetStyle=qt6ct-style
+
+[PreviewSettings]
+MaximumRemoteSize=0
+
+[Icons]
+Theme=Tela-circle-pink
+
+[Icons]
+Theme=Tela-circle-pink
