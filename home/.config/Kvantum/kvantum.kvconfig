@@ -1,0 +1,5 @@
+[General]
+theme=Rose-Pine
+
+[Applications]
+Rose-Pine=org.kde.dolphin
